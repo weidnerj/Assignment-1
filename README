@@ -1,0 +1,10 @@
+Depending on which platform you are developing for, you will want to checkout a different branch.
+
+For PhoneGap iPhone:
+	git checkout iphone-phonegap
+
+For PhoneGap Android:
+	git checkout android
+	
+For Objective-C iPhone:
+	git checkout iphone-objective-c
