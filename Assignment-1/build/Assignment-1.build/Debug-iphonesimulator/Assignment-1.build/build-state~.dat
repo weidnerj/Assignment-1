@@ -1,7 +1,7 @@
 TAssignment-1
 v7
 r0
-t305164443.607904
+t305040398.445181
 cCheck dependencies
 cProcessInfoPlistFile /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app/Info.plist Assignment_1-Info.plist
 cCompileXIB /Users/cmcculloh/Projects/Assignment-1/Assignment-1/MainWindow.xib
@@ -45,9 +45,9 @@ t1275359586
 s30700048
 
 N/Users/cmcculloh/Projects/Assignment-1/Assignment-1/Assignment_1ViewController.xib
-c000000004C8039180000000000004095
-t1283471640
-s16533
+c000000004C7E54810000000000001A59
+t1283347585
+s6745
 
 N/Users/cmcculloh/Projects/Assignment-1/Assignment-1/Assignment_1_Prefix.pch
 c000000004C7E548100000000000000C1
@@ -104,7 +104,7 @@ t1283347598
 s6328
 
 N/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app
-t1283471643
+t1283347598
 s238
 
 N/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app.dSYM
@@ -116,8 +116,8 @@ t1283347598
 s17404
 
 N/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app/Assignment_1ViewController.nib
-t1283471643
-s1236
+t1283347596
+s795
 
 N/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app/Info.plist
 t1283347594
@@ -148,7 +148,7 @@ s909
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies305164443#305164443#0(0"0(0#1#0"27866456492998768#0"0#
+lSLF07#2@18"Check dependencies305040394#305040394#0(0"0(0#1#0"27866456492998768#0"0#
 
 CCompileC build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Objects-normal/i386/Assignment_1AppDelegate.o /Users/cmcculloh/Projects/Assignment-1/Assignment-1/Classes/Assignment_1AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s305040397.927217
@@ -190,12 +190,13 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@66"Compile /Users/cmcculloh/Projects/Assignment-1/Assignment-1/main.m305040397#305040398#0(0"0(0#0#58"/Users/cmcculloh/Projects/Assignment-1/Assignment-1/main.m8594368192#2144"    cd /Users/cmcculloh/Projects/Assignment-1/Assignment-1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-generated-files.hmap -I/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-own-target-headers.hmap -I/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-all-target-headers.hmap -iquote /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-project-headers.hmap -F/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator -I/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/include -I/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/DerivedSources/i386 -I/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/DerivedSources -include /var/folders/JO/JOAMr13RExy3+dirduMrTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Assignment_1_Prefix-eflbpdttwzdkfbaglgvafczlklgx/Assignment_1_Prefix.pch -c /Users/cmcculloh/Projects/Assignment-1/Assignment-1/main.m -o /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Objects-normal/i386/main.o0#
 
 CCompileXIB /Users/cmcculloh/Projects/Assignment-1/Assignment-1/Assignment_1ViewController.xib
-s305164443.204066
-e305164443.589444
+s305040394.878545
+e305040397.014841
 r1
 xCompileXIB
 x/Users/cmcculloh/Projects/Assignment-1/Assignment-1/Assignment_1ViewController.xib
-lSLF07#2@41"CompileXIB Assignment_1ViewController.xib305164443#305164443#0(0"0(0#0#82"/Users/cmcculloh/Projects/Assignment-1/Assignment-1/Assignment_1ViewController.xib8609907904#646"    cd /Users/cmcculloh/Projects/Assignment-1/Assignment-1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app/Assignment_1ViewController.nib /Users/cmcculloh/Projects/Assignment-1/Assignment-1/Assignment_1ViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@41"CompileXIB Assignment_1ViewController.xib305040394#305040397#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#82"/Users/cmcculloh/Projects/Assignment-1/Assignment-1/Assignment_1ViewController.xib8597473408#646"    cd /Users/cmcculloh/Projects/Assignment-1/Assignment-1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app/Assignment_1ViewController.nib /Users/cmcculloh/Projects/Assignment-1/Assignment-1/Assignment_1ViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
 
 CCompileXIB /Users/cmcculloh/Projects/Assignment-1/Assignment-1/MainWindow.xib
 s305040394.850540
@@ -248,10 +249,10 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@34"Precompile Assignment_1_Prefix.pch305040397#305040397#0(0"0(0#0#75"/Users/cmcculloh/Projects/Assignment-1/Assignment-1/Assignment_1_Prefix.pch8595256384#2018"    cd /Users/cmcculloh/Projects/Assignment-1/Assignment-1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-generated-files.hmap -I/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-own-target-headers.hmap -I/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-all-target-headers.hmap -iquote /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-project-headers.hmap -F/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator -I/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/include -I/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/DerivedSources/i386 -I/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/DerivedSources -c /Users/cmcculloh/Projects/Assignment-1/Assignment-1/Assignment_1_Prefix.pch -o /var/folders/JO/JOAMr13RExy3+dirduMrTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Assignment_1_Prefix-eflbpdttwzdkfbaglgvafczlklgx/Assignment_1_Prefix.pch.gch0#
 
 CTouch /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app
-s305164443.590042
-e305164443.607856
+s305040398.416491
+e305040398.445124
 r1
 xTouch
 x/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app
-lSLF07#2@102"Touch /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app305164443#305164443#0(0"0(0#0#0"8609241920#309"    cd /Users/cmcculloh/Projects/Assignment-1/Assignment-1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app0#
+lSLF07#2@102"Touch /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app305040398#305040398#0(0"0(0#0#0"8597565504#309"    cd /Users/cmcculloh/Projects/Assignment-1/Assignment-1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app0#
 
