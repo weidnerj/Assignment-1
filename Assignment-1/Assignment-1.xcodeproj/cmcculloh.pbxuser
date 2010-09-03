@@ -1,0 +1,147 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Assignment-1 */ = {
+		activeExec = 0;
+		executables = (
+			68F5C9C41230789500486207 /* Assignment-1 */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 68F5C9C41230789500486207 /* Assignment-1 */;
+		activeSDKPreference = iphonesimulator4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Assignment-1 */;
+		codeSenseManager = 68F5C9D8123078B400486207 /* Code sense */;
+		executables = (
+			68F5C9C41230789500486207 /* Assignment-1 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 305166671;
+			PBXWorkspaceStateSaveDate = 305166671;
+		};
+		perUserProjectItems = {
+			68F5C9DD1230793900486207 /* PBXTextBookmark */ = 68F5C9DD1230793900486207 /* PBXTextBookmark */;
+			68F5CA03123079E800486207 /* PlistBookmark */ = 68F5CA03123079E800486207 /* PlistBookmark */;
+			68F5CA04123079E800486207 /* PlistBookmark */ = 68F5CA04123079E800486207 /* PlistBookmark */;
+			68F5CA2C12307B6700486207 /* PlistBookmark */ = 68F5CA2C12307B6700486207 /* PlistBookmark */;
+		};
+		sourceControlManager = 68F5C9D7123078B400486207 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	68F5C9C41230789500486207 /* Assignment-1 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Assignment-1";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	68F5C9D7123078B400486207 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	68F5C9D8123078B400486207 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	68F5C9DD1230793900486207 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 68F5C9DE1230793900486207 /* index.html */;
+		name = "index.html: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 359;
+		vrLoc = 968;
+	};
+	68F5C9DE1230793900486207 /* index.html */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.html;
+		name = index.html;
+		path = "/Users/cmcculloh/Projects/Assignment-1/Assignment-1/www/index.html";
+		sourceTree = "<absolute>";
+	};
+	68F5CA03123079E800486207 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 30E1352610E2C1420031B30D /* PhoneGap.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/cmcculloh/Projects/Assignment-1/Assignment-1/PhoneGap.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	68F5CA04123079E800486207 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Assignment_1-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/cmcculloh/Projects/Assignment-1/Assignment-1/Assignment_1-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	68F5CA2C12307B6700486207 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Assignment_1-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleExecutable,
+		);
+		name = "/Users/cmcculloh/Projects/Assignment-1/Assignment-1/Assignment_1-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+}

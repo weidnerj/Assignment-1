@@ -1,0 +1,103 @@
+TAssignment-1
+v7
+r1
+
+N/Users/cmcculloh/Documents/PhoneGapLib/VERSION
+c000000004C803CD10000000000000005
+t1283472593
+s5
+
+N/Users/cmcculloh/Projects/Assignment-1/Assignment-1/Default.png
+c000000004C8041150000000000000BAE
+t1283473685
+s2990
+
+N/Users/cmcculloh/Projects/Assignment-1/Assignment-1/PhoneGap.plist
+c000000004C804115000000000000027E
+t1283473685
+s638
+
+N/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug/Assignment-1.build/Script-304B58A110DAC018002A0835.sh
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug/Assignment-1.build/Script-30E9A9A110B758320022D3BA.sh
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug/Assignment-1.app
+t2
+s0
+
+N/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug/Assignment-1.app/Contents/Info.plist
+t2
+s0
+
+N/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug/Assignment-1.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug/Assignment-1.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug/Assignment-1.app/Contents/Resources/PhoneGap.plist
+t2
+s0
+
+N/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug/Assignment-1.app/Contents/Resources/VERSION
+t2
+s0
+
+N/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug/Assignment-1.app/Contents/Resources/icon.png
+t2
+s0
+
+N/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug/Assignment-1.app/Contents/Resources/www
+t2
+s0
+
+N/Users/cmcculloh/Projects/Assignment-1/Assignment-1/icon.png
+c000000004C8041150000000000000C36
+t1283473685
+s3126
+
+N/Users/cmcculloh/Projects/Assignment-1/Assignment-1/www
+c000000004C8041150000000000000066
+t1283473685
+s102
+
+NAssignment_1-Info.plist
+c000000004C80411500000000000005C2
+t1283473685
+s1474
+
+CCopyPlistFile /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug/Assignment-1.app/Contents/Resources/PhoneGap.plist PhoneGap.plist
+r0
+
+CCpResource build/Debug/Assignment-1.app/Contents/Resources/Default.png Default.png
+r0
+
+CCpResource build/Debug/Assignment-1.app/Contents/Resources/VERSION /Users/cmcculloh/Documents/PhoneGapLib/VERSION
+r0
+
+CCpResource build/Debug/Assignment-1.app/Contents/Resources/icon.png icon.png
+r0
+
+CCpResource build/Debug/Assignment-1.app/Contents/Resources/www www
+r0
+
+CPhaseScriptExecution "Copy PhoneGap Javascript" /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug/Assignment-1.build/Script-30E9A9A110B758320022D3BA.sh
+r0
+
+CPhaseScriptExecution "Touch www folder" /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug/Assignment-1.build/Script-304B58A110DAC018002A0835.sh
+r0
+
+CProcessInfoPlistFile /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug/Assignment-1.app/Contents/Info.plist Assignment_1-Info.plist
+r0
+
+CTouch /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug/Assignment-1.app
+r0
+
